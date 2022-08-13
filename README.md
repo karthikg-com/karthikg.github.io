@@ -1,2 +1,2 @@
-# karthikg.github.io
-Stactic content
+#
+Static content
